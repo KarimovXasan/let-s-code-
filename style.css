@@ -24,12 +24,18 @@
     column-gap: 25px;
 }
 
+.a-tag{
+    color: #000;
+    text-shadow: #FFB0AE;
+}
+
 .nav-btn {
     border: none;
     padding: 6px 22px;
     border-radius: 12px;
     background: #000;
     color: white;
+    cursor: pointer;
 }
 
 /* header qismi */
